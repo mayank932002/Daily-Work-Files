@@ -1,0 +1,7 @@
+Date: 25-03-2025
+
+Data types: Primitive and Non Primitive (String, Number, Boolean, Array, Object, null, undefined)
+Operators (Arithmetic, Assignment, Comparison, Logical)
+Basic I/O (e.g., console.log, alert, prompt)
+Comments (single-line and multi-line)
+Type conversion and coercion

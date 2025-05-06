@@ -1,0 +1,7 @@
+Start of the Day Report
+Date: 26-03-2025
+
+Operators (Arithmetic, Assignment, Comparison, Logical) - Done
+Conditional statements (if, else, else if, switch) - Done
+Loops (for, while, do...while) - Done
+Break and continue statements - Done

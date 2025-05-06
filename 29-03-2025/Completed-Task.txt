@@ -1,0 +1,11 @@
+End of the Day Update Report
+Date: 31-03-2025
+
+- Call, apply, bind method
+- Arguments object
+- What is Object ?
+- Creating and modifying objects
+- Object properties and methods
+- this keyword
+
+

@@ -1,0 +1,7 @@
+Start of the Day Report
+Date: 14-04-2025
+
+- Error Handling
+- try...catch block
+- throw statement
+- Error objects

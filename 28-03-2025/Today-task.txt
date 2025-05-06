@@ -1,0 +1,7 @@
+Start of the Day Report
+Date: 28-03-2025
+- forof and forin loop
+- Higher-order functions
+- Callback functions
+- Call, apply, bind method
+- Arguments object

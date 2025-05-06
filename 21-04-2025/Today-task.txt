@@ -1,0 +1,7 @@
+Start of the Day Report
+Date: 21-04-2025
+
+- Event handling (addEventListener)
+- Event object and its properties
+- Common events (click, submit, keydown, load)
+- Prevent default behavior and event bubbling

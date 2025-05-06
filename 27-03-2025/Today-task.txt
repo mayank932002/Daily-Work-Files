@@ -1,0 +1,11 @@
+Start of the Day Report
+Date: 27-03-2025
+
+- Break and continue statements
+- Practice Test 
+- What is function ?
+- Function declaration vs. expression
+- Arrow functions
+- Parameters, arguments, default parameters
+- Return values
+- Function scope and closure

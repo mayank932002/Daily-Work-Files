@@ -1,0 +1,10 @@
+End of the Day Update Report
+
+Date:16-04-2025
+
+- Global scope, local scope, and block scope
+- Variable hoisting
+- var, let, and const differences
+- ES6 Features
+- What is DOM  ?
+- Event propagation (bubbling and capturing)

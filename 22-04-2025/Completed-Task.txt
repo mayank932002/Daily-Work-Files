@@ -1,0 +1,7 @@
+End of the Day Update Report
+
+Date:22-04-2025
+
+- Callbacks
+- Promises (.then, .catch, .finally)
+- async and await

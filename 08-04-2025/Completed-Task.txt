@@ -1,0 +1,8 @@
+End of the Day Update Report
+
+Date:08-04-2025
+
+- Practical Test - [Done]
+- All Array methods - [Done]
+- Array destructuring - [Done]
+- Nested Arrays - [Done]

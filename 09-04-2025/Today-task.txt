@@ -1,0 +1,7 @@
+Start of the Day Report
+Date: 09-04-2025
+
+- Creating string
+- All String methods 
+- String Concatenation (+, .concat())
+- String to Number & Number to String Conversion

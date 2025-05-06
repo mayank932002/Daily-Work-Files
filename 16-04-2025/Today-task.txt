@@ -1,0 +1,13 @@
+Start of the Day Report
+Date: 16-04-2025
+
+- Global scope, local scope, and block scope
+- Variable hoisting
+- var, let, and const differences
+- ES6 Features
+- What is DOM  ?
+- Selecting elements (getElementById, querySelector, etc.)
+- Changing content and styles
+- Creating and removing elements
+- Event listeners (e.g., click, change, keyup)
+- Event propagation (bubbling and capturing)

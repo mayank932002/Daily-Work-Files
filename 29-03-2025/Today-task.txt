@@ -1,0 +1,10 @@
+Start of the Day Report
+Date: 31-03-2025
+
+- What is Object ?
+- Creating and modifying objects
+- Object properties and methods
+- this keyword
+- Object destructuring
+- Object iteration
+- Prototypes

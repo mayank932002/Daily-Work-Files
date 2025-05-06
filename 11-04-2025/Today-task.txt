@@ -1,0 +1,4 @@
+Start of the Day Report
+Date: 10-04-2025
+
+- All Math function and method in javascript

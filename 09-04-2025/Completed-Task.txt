@@ -1,0 +1,8 @@
+End of the Day Update Report
+
+Date:09-04-2025
+
+- Creating string - [Done]
+- All String methods - [Done]
+- String Concatenation (+, .concat()) - [Done]
+- String to Number & Number to String Conversion - [Done]

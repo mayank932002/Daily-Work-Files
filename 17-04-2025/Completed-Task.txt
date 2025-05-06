@@ -1,0 +1,8 @@
+End of the Day Update Report
+
+Date:17-04-2025
+
+- Selecting elements (getElementById, querySelector, etc.)
+- Changing content and styles
+- Creating and removing elements
+- Event listeners (e.g., click, change, keyup)

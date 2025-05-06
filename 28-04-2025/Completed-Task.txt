@@ -1,0 +1,12 @@
+End of the Day Update Report
+
+Date:28-04-2025
+
+- Canvas/SVG basics
+- Introduction to modules (import and export)
+- Default vs. named exports
+- Optional chaining (?.), nullish coalescing (??)
+- Strict Mode
+- Immediately Invoked Function Expressions (IIFE)
+- Classes and objects
+- this in OOP

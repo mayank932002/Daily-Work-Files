@@ -1,0 +1,9 @@
+Start of the Day Report
+Date: 08-04-2025
+
+- What is Array ?
+- Creating arrays
+- Accessing and modifying elements
+- All Array methods 
+- Array destructuring
+- Nested Arrays

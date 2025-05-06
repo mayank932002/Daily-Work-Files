@@ -1,0 +1,11 @@
+End of the Day Update Report
+Date: 27-03-2025
+
+- Break and continue statements - Done
+- What is function ? - Done
+- Function declaration vs. expression - Done
+- Arrow functions - Done
+- Parameters, arguments, default parameters - Done
+- Return values - Done
+- Function scope and closure - Done
+

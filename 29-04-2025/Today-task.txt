@@ -1,0 +1,27 @@
+Start of the Day Report
+Date: 29-04-2025
+
+Local Storage and Cookies
+
+- Using localStorage and sessionStorage, Cookies
+- Storing and retrieving data
+
+
+When it's done Let's create a demo for it
+Create a simple To-Do List web application that allows users to:
+Add, view, and delete tasks.
+Choose where to store the tasks: localStorage, sessionStorage, or cookies.
+Demonstrate the persistence and behavior of each storage mechanism (e.g., localStorage persists across sessions, sessionStorage clears when the tab closes, cookies have size and expiration constraints).
+Display retrieved data and allow users to clear storage.
+This demo will help illustrate:
+How to store and retrieve data using localStorage, sessionStorage, and cookies.
+Key differences (persistence, scope, size limits).
+Practical use cases for each storage type.
+
+
+
+
+
+
+
+

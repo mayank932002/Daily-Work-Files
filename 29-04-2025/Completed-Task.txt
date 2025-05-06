@@ -1,0 +1,6 @@
+End of the Day Update Report
+
+Date:29-04-2025
+
+- Using localStorage and sessionStorage, Cookies
+- Storing and retrieving data

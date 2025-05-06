@@ -1,0 +1,11 @@
+End of the Day Update Report
+
+Date:25-04-2025
+
+- Error handling in asynchronous code
+- Timers: setTimeout, setInterval
+- Making HTTP requests with Fetch API
+- All methods like GET, POST,PUT, DELETE
+- Handling responses (parsing JSON)
+- Using XMLHttpRequest (basic understanding)
+- WebSockets in Javascript

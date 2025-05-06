@@ -1,0 +1,8 @@
+End of the Day Update Report
+Date:07-04-2025
+
+
+- What is Array ? - [Done]
+- Creating arrays - [Done]
+- Accessing and modifying elements - [Done]
+- All Array methods - [In Progress]

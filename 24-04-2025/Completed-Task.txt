@@ -1,0 +1,8 @@
+End of the Day Update Report
+
+Date:24-04-2025
+
+- Error handling in asynchronous code
+- Timers: setTimeout, setInterva
+- Making HTTP requests with Fetch API
+- All methods like GET, POST,PUT, DELETE

@@ -1,0 +1,10 @@
+Start of the Day Report
+Date: 25-04-2025
+
+- Handling responses (parsing JSON)
+- Using XMLHttpRequest (basic understanding)
+- WebSockets in Javascript
+- Geolocation API
+- Canvas/SVG basics
+- Introduction to modules (import and export)
+- Default vs. named exports
