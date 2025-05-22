@@ -2,3 +2,13 @@ End of the Day Update Report
 
 Date:06-05-2025
 
+- JavaScript ES6+ (Modern JavaScript) - [DONE]
+- Template literals - [DONE]
+- let and const - [DONE]
+- Arrow functions - [DONE]
+- Rest and spread operators - [DONE]
+- Default parameters - [DONE]
+- for...of loop - [DONE]
+- Destructuring (objects and arrays) - [DONE]
+- Optional chaining (?.), nullish coalescing (??) - [DONE]
+
