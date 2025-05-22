@@ -717,7 +717,7 @@
 // }
 // let student1= new user("Mayank","abc@gmail.com")
 // let student2= new user("John","John@gmail.com")
-// let student3= new user("MArk","mark@gmail.com")
+// let student3= new user("Mark","mark@gmail.com")
 // let teacher1 = new user("dean", "Dean@gmail.com")
 // console.log(student1.viewData(),student2,student3)
 
